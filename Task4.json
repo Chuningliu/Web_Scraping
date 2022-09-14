@@ -1,0 +1,15 @@
+{
+    "movie": "Kai po che!",
+    "director": [
+        "Abhishek Kapoor"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@._V1_.jpg",
+    "description": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country&apos;s next cricket stars.",
+    "language": "English",
+    "genre": [
+        "Drama",
+        "Sport"
+    ],
+    "Runtime": "PT2H10M",
+    "country": "india"
+}

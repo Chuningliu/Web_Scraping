@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt2213054/",
+  "name": "Kai po che!",
+  "alternateName": "Kai Po Che!",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@._V1_.jpg",
+  "description": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country&apos;s next cricket stars.",
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt2213054/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "gops-s21"
+    },
+    "dateCreated": "2013-02-24",
+    "inLanguage": "English",
+    "name": "Cricket, Love, Friendship, Passion, Politics.... phew... what a film!",
+    "reviewBody": "Before watching &quot;Kai Po Che!&quot;:\n\nMe: Hey! Let&apos;s watch Kai Po Che.. A movie about Friendship, Forgiveness, Passion and..\n\nBro: wait.. yet another movie on &apos;friendship&apos;! Another 3 idiots! Another Zindagi na milegi dobara... Come on! Don&apos;t you get tired of watching movies about same old stuff.. Can&apos;t we watch &apos;Die Hard&apos;..? Yippee ki yay!\n\nMe: No.. &apos;Die Hard&apos; got bad reviews.. And seriously? Choosing &apos;Die Hard&apos; over &apos;Kai Po Che&apos; is the dumbest thing that must have ever come to your mind. Nopiee ki nay!\n\nBro: OK then.. let&apos;s go.. But we will watch Die hard after we are done with Kai Po Che.. OK?\n\nMe: OK. Cool.\n\nThe film:\n\nThe film title Kai Po Che is originally a Gujarati phrase that means &quot;I have cut the kite&quot; which refers to a kite competition where one of the competitors uses his kite to cut off another competitors kite and yells &quot;Kai Po Che!&quot;\n\nAdapted from &quot;The 3 Mistakes of my Life&quot;(Chetan Bhagat) and Directed by Abhishek Kapoor (Rock On!!) this is a character driven film about friendship, forgiveness, passion, love.. all in the backdrop of some real events. The story mainly revolves around three friends, Ishaan played by Sushant Singh Rajput, Govind played by Raj Kumar Yadav and Omi played by Amit Sadh, who set out to open a sports training academy.\n\nThe Good:\n\nA film about friendship is not a new thing in Bollywood. We have already witnessed &quot;3 Idiots&quot;, &quot;Rock On&quot;, &quot;ZNMD&quot;, &quot;Dil Chahta Hai&quot;. &quot;Kai Po Che&quot; looks similar at first but peel off the layers and it&apos;s much more.\n\nAdapted from a book titled &quot;3 mistakes of my Life&quot; this film is a tightly scripted and crisply edited drama that never bogs down or dumbs down for its audience and instead resorts to subtlety.\n\nPlaying with themes like dreams and aspirations, friendship standing test of time, a commentary of our education system is not an easy task and the director does an incredible job of weaving everything together.\n\nCinematographer Anay Goswamy has made look Gujrat so beautiful that I feel like taking a vacation and running off to that place for the Kite festival. Also, music given by &quot;Amit Trivedi&quot; is refreshing especially the song &quot;Manjha&quot;.\n\nBut it&apos;s the characters that drive this film and the three leads are a revelation here. Rajkumar Yadav, Amit Sadh and Sushant Singh Rajput not only have a good screen presence but they can actually ACT! (Sorry about me shouting and all.. but can&apos;t control my emotions right now) The actors have such great chemistry that it reminded me of my college days. These guys are not actors in this film. They ARE Govind Patel, Omkar Shastri and Ishaan Bhatt. And this is where this film hits it out of the park.\n\nA capitalist money minded friend. A political friend. An emotional/day dreamer friend. These are people whom we have met somewhere at some point in our lives. These are people whom we can relate to and care about.\n\nThe Bad: Not applicable.\n\nFinal verdict: Cricket, Love, Friendship, Passion, Politics.. It&apos;s all what India is about and it&apos;s something that any sane minded Indian wouldn&apos;t and shouldn&apos;t miss.\n\nAfter watching &quot;Kai Po Che!&quot;:\n\nBro: Damn you\u0085 (sniff)\n\nMe: What! You didn&apos;t like it? (sniff)\n\nBro: My eyes are watery. It&apos;s so embarrassing! F***ing friendship movies\u0085 (sniff)\n\nMe: Oh come on now! Since when did you start crying for a film (sniff)\n\nBro: Oh and why is there a bubble under your nose? \n\nMe: I.. I got cold. (sniff..) OK.. So next Die Hard.. I&apos;ll go buy the tickets and then..\n\nBro: F*** Die Hard. Let&apos;s watch this again. (sniff)",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 37093,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2013-02-22",
+  "keywords": "cricket,cricket the sport,cricket sport,business,politics",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Kai po che!",
+    "embedUrl": "https://www.imdb.com/video/imdb/vi2820519961",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNThlZTI4ODctNDMxZS00ZTc0LWE2NGMtNzEwOGNmZmRmMzlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNThlZTI4ODctNDMxZS00ZTc0LWE2NGMtNzEwOGNmZmRmMzlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "url": "https://www.imdb.com/video/vi2820519961/",
+    "description": "Trailer for Kai Po Che!",
+    "duration": "PT2M36S",
+    "uploadDate": "2018-03-21T17:55:28Z"
+  },
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm2815326/",
+      "name": "Amit Sadh"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3818286/",
+      "name": "Sushant Singh Rajput"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3822770/",
+      "name": "Rajkummar Rao"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0438461/",
+      "name": "Abhishek Kapoor"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "url": "/company/co0837859/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0131238/"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2746459/",
+      "name": "Chetan Bhagat"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0438461/",
+      "name": "Abhishek Kapoor"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1805418/",
+      "name": "Supratik Sen"
+    }
+  ],
+  "duration": "PT2H10M"
+}
